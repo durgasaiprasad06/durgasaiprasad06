@@ -1,4 +1,9 @@
-# 💫 About Me:
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Hi,%20I'm%20Tunga%20Durga%20Sai%20Prasad%20&fontSize=40&fontColor=00CC00&animation=blink&desc=Data%20Analyst%20%7C%20B.Tech%20CSE&descSize=22&descColor=ffffff&descAlignY=75&fontAlignY=35" width="100%"/>
+</div>
+
+
+## 💻 About Me:
 🔭 I’m currently working on Data Analytics and Business Intelligence projects using Python, SQL, Power BI, and data visualization, while building practical AI-powered applications.<br>🌱 I’m currently learning Data Science, Generative AI, AI tools, and advanced data analytics techniques while strengthening my programming and problem-solving skills.<br>👯 I’m looking to collaborate on Data Analytics, Business Intelligence, AI/ML, and open-source projects where I can contribute, learn, and build real-world solutions.<br>🤔 I’m looking for help with Improving my skills in advanced Data Science, AI/ML, and scalable application development, and learning best practices from experienced developers.<br>💬 Ask me about Python, SQL, Power BI, Data Analytics, Data Visualization, MySQL, Pandas, NumPy, Scikit-learn, and AI chatbot development.<br>⚡ Fun fact: I enjoy turning raw datasets into meaningful insights and interactive dashboards, and I like exploring new technologies by building practical projects.<br>
 
 

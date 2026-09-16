@@ -3,8 +3,14 @@
 </div>
 
 
-## 💻 About Me:
-🔭 I’m currently working on Data Analytics and Business Intelligence projects using Python, SQL, Power BI, and data visualization, while building practical AI-powered applications.<br>🌱 I’m currently learning Data Science, Generative AI, AI tools, and advanced data analytics techniques while strengthening my programming and problem-solving skills.<br>👯 I’m looking to collaborate on Data Analytics, Business Intelligence, AI/ML, and open-source projects where I can contribute, learn, and build real-world solutions.<br>🤔 I’m looking for help with Improving my skills in advanced Data Science, AI/ML, and scalable application development, and learning best practices from experienced developers.<br>💬 Ask me about Python, SQL, Power BI, Data Analytics, Data Visualization, MySQL, Pandas, NumPy, Scikit-learn, and AI chatbot development.<br>⚡ Fun fact: I enjoy turning raw datasets into meaningful insights and interactive dashboards, and I like exploring new technologies by building practical projects.<br>
+ ## 💻 About Me:
+🔭 Currently working on: Data Analytics and Business Intelligence projects using Python, SQL, Power BI, and data visualization.<br>
+🌱 Currently learning: Data Science and advanced data analytics techniques to strengthen my problem-solving skills.<br>
+👯 Looking to collaborate on: Data Analytics, Business Intelligence, and open-source projects to build real-world solutions.<br>
+🤔 Looking for help with: Advanced Data Science, scalable application development, and learning industry best practices.<br>
+💬 Ask me about: Python, SQL, Power BI, MySQL, Pandas, NumPy, Scikit-learn, and Data Visualization.<br>
+⚡ Fun fact: I enjoy turning raw datasets into interactive dashboards and meaningful insights through practical projects.<br>
+
 
 
 ## 🌐 Socials:

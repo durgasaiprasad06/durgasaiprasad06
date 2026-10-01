@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Hi,%20I'm%20Tunga%20Durga%20Sai%20Prasad%20&fontSize=40&fontColor=2EA043&animation=blink&desc=Data%20Analyst%20%7C%20B.Tech%20CSE&descSize=22&descColor=ffffff&descAlignY=75&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Hi,%20I'm%20Tunga%20Durga%20Sai%20Prasad&fontSize=40&fontColor=2EA043&animation=blink&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20Aspiring%20Data%20Scientist&descSize=22&descColor=ffffff&descAlignY=75&fontAlignY=35" width="100%"/>
 </div>
+
 
 
  ## 💻 About Me:

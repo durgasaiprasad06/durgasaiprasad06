@@ -38,9 +38,9 @@
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=durgasaiprasad06&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=durgasaiprasad06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgasaiprasad06&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=ffffff" alt="Top Languages" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

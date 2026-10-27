@@ -36,7 +36,7 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=durgasaiprasad06&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=durgasaiprasad06&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=ffffff&icon_color=8A2BE2&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </div>
 
 <div align="center">
